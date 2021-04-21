@@ -12,7 +12,7 @@ These are my dotfiles for settings up my macOS from scratch.
 ### Oneliner
 
 ```
-$ sh -c "$(curl -fsSL https://git.io/JvrDa)"
+$ sh -c "$(curl -fsSL https://git.io/JOr9h)"
 ```
 
 Source: https://raw.githubusercontent.com/salvitas/dotfiles/master/install.sh
@@ -47,38 +47,6 @@ Alternatively you could utilize encryption: https://abdullah.today/encrypted-dot
 - Homebrew
 - Oh My Zsh
 - Brewfile
-  - Ansible
-  - DDEV local
-  - Docker Desktop
-  - doctl
-  - Firefox
-  - Google Chrome
-  - HTTPie
-  - iTerm2
-  - KeepingYouAwake
-  - Lagoon CLI
-  - LastPass CLI
-  - Mac App Store manager
-  - Mackup
-  - mkcert and nss
-  - Monosnap
-  - MySQL
-  - NVM
-  - OpenShift CLI
-  - PHPStorm
-  - Rectangle
-  - Slack
-  - Sublime Text 3
-  - Terraform
-  - Transmission
-  - Tunnelblick
-  - VLC
-  - VyprVPN
-
-## TODO
-
-- Install Composer and hirak/prestissimo
-- Clone Stonehenge
 
 ## Thanks to...
 
