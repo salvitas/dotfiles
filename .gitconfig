@@ -1,0 +1,8 @@
+[user]
+	email = shagy69@gmail.com
+	name = Salva Vilarrasa
+	signingkey = 8318C38E6F367E6E
+[gpg]
+	program = /usr/local/bin/gpg
+[commit]
+	gpgsign = true
